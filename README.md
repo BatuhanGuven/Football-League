@@ -12,7 +12,7 @@ This console application is designed to manage and display information about foo
 - **View All Teams**: Display information about all teams.
 - **View Players of a Team**: Show details of all players in a specific team.
 - **Update Player Performance**: Update the performance metrics of a player.
-- **Display Fixture**: (Future implementation) Show the fixtures for the league.
+- **Display Fixture**: Show the fixtures for the league.
 
 ## How to Use
 
